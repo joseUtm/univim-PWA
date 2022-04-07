@@ -1,7 +1,7 @@
 //obtnenemos la url del servidor 
 var url=window.location.href;
 // definimos que nuestro sw.js se encuentra en el repositorio
-var ubicacionSw='/sketching/sw.js';
+var ubicacionSw='/univim-PWA/sw.js';
 
 if (navigator.serviceWorker) {
 /*para que nuestro proyecto siga funcionando en localhost 
